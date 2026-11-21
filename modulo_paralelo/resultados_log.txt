@@ -1,0 +1,15 @@
+Lote: 64 tomas | CPU lógicas: 16 | repeticiones: 3
+Secuencial: 38.90 s (mediana)
+  procesos p= 1  T=37.99 s  S=1.02  E=1.02  idéntico=True
+  procesos p= 2  T=19.83 s  S=1.96  E=0.98  idéntico=True
+  procesos p= 4  T=10.49 s  S=3.71  E=0.93  idéntico=True
+  procesos p= 8  T=6.70 s  S=5.81  E=0.73  idéntico=True
+  procesos p=12  T=6.39 s  S=6.08  E=0.51  idéntico=True
+  procesos p=16  T=6.21 s  S=6.26  E=0.39  idéntico=True
+  hilos    p= 1  T=37.40 s  S=1.04  E=1.04  idéntico=True
+  hilos    p= 2  T=36.85 s  S=1.06  E=0.53  idéntico=True
+  hilos    p= 4  T=35.86 s  S=1.08  E=0.27  idéntico=True
+  hilos    p= 8  T=37.73 s  S=1.03  E=0.13  idéntico=True
+  hilos    p=12  T=38.86 s  S=1.00  E=0.08  idéntico=True
+  hilos    p=16  T=39.63 s  S=0.98  E=0.06  idéntico=True
+Resultados en D:\Proyectos\2026\Escritura papers\proyectos\Tri\modulo_paralelo\resultados

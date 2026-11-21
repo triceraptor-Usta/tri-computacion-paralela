@@ -1,0 +1,16 @@
+{
+ "tomas": 64,
+ "reps": 3,
+ "t1_mediana_s": 38.895620499999495,
+ "t1_todas_s": [
+  39.103788700012956,
+  38.895620499999495,
+  37.35544799998752
+ ],
+ "tomas_con_error": [],
+ "cpu": "AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD",
+ "cpu_logicas": 16,
+ "sistema": "Windows-11-10.0.22631-SP0",
+ "python": "3.13.2",
+ "numpy": "2.4.2"
+}
